@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+  background-image: url('../img/plumas.jpg');
+  background-size: cover;
+}
+/* TÍTULOS */
+h1, h2 {
+  text-align: center;
+  color: red;
+}
+
+/* PÁRRAFOS */
+p {
+  width: 60%;
+  margin: 20px auto;
+  line-height: 1.6;
+  color: black;
+}
+
+/* IMAGEN DE FONDO */
+body {
+  background-image: url('../img/plumas.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
